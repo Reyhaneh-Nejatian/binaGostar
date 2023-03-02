@@ -1,0 +1,10 @@
+{
+    "super admin" : "مدیرکل",
+    "manage users" : "مدیریت کاربران",
+    "manage role_permissions" : "مدیریت نقش های کاربری",
+    "manage category" : "مدیریت دسته بندی ها",
+    "manage products" : "مدیریت محصولات",
+    "manage sliders" : "مدیریت اسلایدر",
+    "manage brands" : "مدیریت برند ها",
+    "manage products attribute" : "مدیریت ویژگی محصولات"
+}
